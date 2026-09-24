@@ -7,7 +7,7 @@ This is my first Artificial Intelligence model that can tell if an image is a Ca
 - **Tools:** Python, AI Image Classification
 
 ## How it works
-The model learned the difference between cats and dogs by looking at their ears and faces.
+The model learned the difference between cats an'd dogs by looking at their ears and faces.
 
 ## Prediction Example
 Prediction: Cat 98% confidence
