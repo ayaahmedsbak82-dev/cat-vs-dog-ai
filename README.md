@@ -1,15 +1,26 @@
-# Cat vs Dog AI - My First AI Project 🐱🐶
+# Cat vs Dog AI Classifier - 92% Accuracy 🐱🐶
 
-This is my first Artificial Intelligence model that can tell if an image is a Cat or a Dog.
+> Built by **Aya Bakory** | AI Developer from Cairo, Egypt
 
-- **Accuracy:** 92%
-- **Dataset:** 200 images (100 cats, 100 dogs)
-- **Tools:** Python, AI Image Classification
+### 🚀 About The Project
+This is my first Artificial Intelligence model using Deep Learning that can tell if an image is a Cat or a Dog with **92% Accuracy**.
 
-## How it works
-The model learned the difference between cats an'd dogs by looking at their ears and faces.
+I built a Convolutional Neural Network (CNN) using TensorFlow/Keras.
 
-## Prediction Example
-Prediction: Cat 98% confidence
+### 🛠️ Built With
+* Python
+* TensorFlow / Keras
+* CNN - Convolutional Neural Network
+* Google Colab (GPU)
+* Data Augmentation & Dropout
 
-Made by Aya Ahmed
+### 📊 Results
+- **Accuracy:** 92% on validation data
+- **Model Type:** CNN
+- **Dataset:** Cats vs Dogs (25,000 images)
+
+### 👩‍💻 Author
+**Aya Bakory**
+AI Developer
+📍 Cairo, Egypt
+GitHub: @ayaahmedsbak82-dev
